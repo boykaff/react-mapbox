@@ -12,3 +12,15 @@ ol, ul, li {
     list-style: none;
 }
 
+body>div, body>div>div {
+    width: 100%;
+    height: 100%;
+}
+
+
+
+.map {
+    margin-left: 20%;
+    width: 60%;
+    height: 60%;
+}
