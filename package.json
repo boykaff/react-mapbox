@@ -21,5 +21,9 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "devDependencies": {
+    "@mapbox/mapbox-gl-language": "^0.10.0",
+    "mapbox-gl": "^0.51.0"
+  }
 }
